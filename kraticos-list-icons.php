@@ -5,18 +5,11 @@ $sub_folder_icons = "icones";
 $size_icons = "20px";
  
 $icone_kraticons_logomarca = "<img src=\"icones/$sub_folder_img/logomarca.png\" width=\"$size_icons\">";
-
 $icone_kraticons_semfoto = "<img src=\"icones/$sub_folder_img/semfoto.png\" width=\"$size_icons\">";
-
 $icone_kraticons_success = "<img src=\"icones/$sub_folder_img/logomarca_success.png\" width=\"$size_icons\">";
-
 $icone_kraticons_fail = "<img src=\"icones/$sub_folder_img/logomarca_fail.png\" width=\"$size_icons\">";
-
 $icone_kraticons_suspended = "<img src=\"icones/$sub_folder_img/logomarca_suspended.png\" width=\"$size_icons\">";
-
 $icone_kraticons_nofoto = "<img src=\"icones/$sub_folder_img/semfoto.jpg\" width=\"$size_icons\">";
-
-
 
 $icone_welcome = "<img src=\"icones/$sub_folder_icons/welcome.png\" width=\"$size_icons\">";
 $icone_user_adm = "<img src=\"icones/$sub_folder_icons/user_admin.png\" width=\"$size_icons\">";
@@ -77,7 +70,6 @@ $icone_ideia = "<img src=\"icones/$sub_folder_icons/ideia.png\" width=\"$size_ic
 $icone_complement = "<img src=\"icones/$sub_folder_icons/complement.png\" width=\"$size_icons\">";
 $icone_point = "<img src=\"icones/$sub_folder_icons/point.png\" width=\"$size_icons\">";
 
-
 // https://material.io/resources/icons/?icon=card_travel&style=baseline
 // https://www.w3schools.com/icons/google_icons_notification.asp
 $icone_learn_engrenagem = "<a href=\"learn/engrenagem\" alt=\"Assista o Vídeo e aprenda como usar\" title=\"Assista o Vídeo e aprenda como usar\"><i class=\"material-icons md-36\">ondemand_video</i></a>";
@@ -89,13 +81,9 @@ $icone_learn_buscar = "<a href=\"learn/buscar\" alt=\"Assista o Vídeo e aprenda
 $icone_learn_agenda = "<a href=\"learn/agenda-dia\" alt=\"Assista o Vídeo e aprenda como usar\" title=\"Assista o Vídeo e aprenda como usar\"><i class=\"material-icons md-36\">ondemand_video</i></a>";
 $icone_learn_mensalidade = "<a href=\"learn/mensalidade\" alt=\"Assista o Vídeo e aprenda como usar\" title=\"Assista o Vídeo e aprenda como usar\"><i class=\"material-icons md-36\">ondemand_video</i></a>";
 
-
-
-
 //para manutencao apenas
 //somente se for a pagina site.com.br/icons
 if($conteudo0 == "icons"){
-
 echo "<article>";
 echo "<section>";
 	
